@@ -3086,4 +3086,4 @@ fear of light." CR>)>>
 toward you on three leg-like stalks.")
 	(SYNONYM TRIFFID PLANT MUTANT MONSTER)
 	(ADJECTIVE MOBILE MAN-EATING GIANT)
-	(FLAGS ACTORBIL M
+	(FLAGS ACTORBIT)>

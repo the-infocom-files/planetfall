@@ -205,6 +205,8 @@ long description (fdesc or ldesc), otherwise will print short."
 
 ;"scoring"
 
+<GLOBAL MOVES 0>
+
 <GLOBAL INTERNAL-MOVES 0>
 
 <GLOBAL SCORE 0>
