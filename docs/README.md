@@ -1,10 +1,10 @@
-*This page is currently under construction. Last updated July 2, 2019 by Alex Proudfoot.*
+# Planetfall
 
-----
+## The Game
 
-Planetfall was Infocom's 8th IF game and was first released in 1983.
+Planetfall is a 1983 interactive fiction game written by Steve Meretzky and published by Infocom.
 
-Further information on Planetfall:
+The following sources provide further information on Planetfall:
 
 * [Wikipedia](https://en.wikipedia.org/wiki/Planetfall)
 * [The Digital Antiquarian](https://www.filfre.net/2013/03/planetfall/)
@@ -12,22 +12,40 @@ Further information on Planetfall:
 * [The Infocom Gallery](http://infocom.elsewhere.org/gallery/planetfall/planetfall.html)
 * [IFWiki](http://www.ifwiki.org/index.php/Planetfall)
 
+## Resources
 
-The following source material is available for importation. Release 39 was selected from the Zarf Sources.
+* [Planetfall on The Obsessively Complete Infocom Catalog](https://eblong.com/infocom/#planetfall)
+* [Planetfall on Historical Source (GitHub)](https://github.com/historicalsource/planetfall)
+* [Infocom Fact Sheet](http://pdd.if-legends.org/infocom/fact-sheet.txt)
 
-## Historical Releases
+## Version History
 
-These contain the available source material.
+Zarf's Obsessively Complete Infocom Catalog holds copies of the game files for every existing version of Planetfall listed in the Infocom Fact Sheet. It also holds the source files for versions 37/851003 and 39/880501.
 
-| Release | Serial | Story File       | Zarf Sources | Jason Scott Sources |
-| -------:|:------:|:----------------:|:------------:|:-------------------:|
-|      37 | 851003 | [r37-s851003-z3] |    [r37-zip] |       [revision-37] |
-|      39 | 880501 | [r39-s880501-z3] |    [r39-zip] |    [final-revision] |
+| Release | Serial | Story File                  | Zarf Sources         | Historical Sources |
+| -------:|:------:|:---------------------------:|:--------------------:|:-------------------:|
+|      20 | 830708 | [planetfall-r20-s830708.z3] |                    - |                   - |
+|      26 | 831014 | [planetfall-r26-s831014.z3] |                    - |                   - |
+|      29 | 840118 | [planetfall-r29-s840118.z3] |                    - |                   - |
+|      37 | 851003 | [planetfall-r37-s851003.z3] | [planetfall-r37.zip] |       [revision 37] |
+|      39 | 880501 | [planetfall-r39-s880501.z3] | [planetfall-r39.zip] |    [final revision] |
 
-[r37-s851003-z3]: https://eblong.com/infocom/gamefiles/planetfall-r37-s851003.z3
-[r37-zip]: https://eblong.com/infocom/sources/planetfall-r37.zip
-[revision-37]: https://github.com/historicalsource/planetfall/tree/281bd3417faada8011397244d4bfaad562cb7bfc
+[planetfall-r20-s830708.z3]: https://eblong.com/infocom/gamefiles/planetfall-r20-s830708.z3
 
-[r39-s880501-z3]: https://eblong.com/infocom/gamefiles/planetfall-r39-s880501.z3
-[r39-zip]: https://eblong.com/infocom/sources/planetfall-r39.zip
-[final-revision]: https://github.com/historicalsource/planetfall/tree/e85ca899aac575e74a4b3845f44d09a891c1563a
+[planetfall-r26-s831014.z3]: https://eblong.com/infocom/gamefiles/planetfall-r26-s831014.z3
+
+[planetfall-r29-s840118.z3]: https://eblong.com/infocom/gamefiles/planetfall-r29-s840118.z3
+
+[planetfall-r37-s851003.z3]: https://eblong.com/infocom/gamefiles/planetfall-r37-s851003.z3
+[planetfall-r37.zip]: https://eblong.com/infocom/sources/planetfall-r37.zip
+[revision 37]: https://github.com/historicalsource/planetfall/tree/281bd3417faada8011397244d4bfaad562cb7bfc
+
+[planetfall-r39-s880501.z3]: https://eblong.com/infocom/gamefiles/planetfall-r39-s880501.z3
+[planetfall-r39.zip]: https://eblong.com/infocom/sources/planetfall-r39.zip
+[final revision]: https://github.com/historicalsource/planetfall/tree/e85ca899aac575e74a4b3845f44d09a891c1563a
+
+## Future Development
+
+Version 39/880501 has been selected as the starting point for future development.
+
+Compilation issues are recorded [here](https://github.com/the-infocom-files/planetfall/issues/2).
