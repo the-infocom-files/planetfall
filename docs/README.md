@@ -20,15 +20,13 @@ The following sources provide further information on Planetfall:
 
 ## Version History
 
-Zarf's Obsessively Complete Infocom Catalog holds copies of the game files for every existing version of Planetfall listed in the Infocom Fact Sheet. It also holds the source files for versions 37/851003 and 39/880501.
-
-| Release | Serial | Story File                  | Zarf Sources         | Historical Sources |
-| -------:|:------:|:---------------------------:|:--------------------:|:-------------------:|
-|      20 | 830708 | [planetfall-r20-s830708.z3] |                    - |                   - |
-|      26 | 831014 | [planetfall-r26-s831014.z3] |                    - |                   - |
-|      29 | 840118 | [planetfall-r29-s840118.z3] |                    - |                   - |
-|      37 | 851003 | [planetfall-r37-s851003.z3] | [planetfall-r37.zip] |       [revision 37] |
-|      39 | 880501 | [planetfall-r39-s880501.z3] | [planetfall-r39.zip] |    [final revision] |
+| Release | Serial | Type | Story File                  | Obsessive Sources    | Historical Sources |
+| -------:|:------:|:----:|:---------------------------:|:--------------------:|:------------------:|
+|      20 | 830708 |  PUB | [planetfall-r20-s830708.z3] |                    - |                  - |
+|      26 | 831014 |  PUB | [planetfall-r26-s831014.z3] |                    - |                  - |
+|      29 | 840118 |  PUB | [planetfall-r29-s840118.z3] |                    - |                  - |
+|      37 | 851003 |  PUB | [planetfall-r37-s851003.z3] | [planetfall-r37.zip] |      [revision 37] |
+|      39 | 880501 |  FIN | [planetfall-r39-s880501.z3] | [planetfall-r39.zip] |   [final revision] |
 
 [planetfall-r20-s830708.z3]: https://eblong.com/infocom/gamefiles/planetfall-r20-s830708.z3
 
